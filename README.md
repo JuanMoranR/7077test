@@ -1,2 +1,2 @@
-# 7077test
-This is the code for the FRC 2018 test robot from team 7077. 
+# frcfirstrobot
+Java FRC project for Eldorado highschool in Las Vegas. Team 7077
